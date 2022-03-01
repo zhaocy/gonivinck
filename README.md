@@ -1,6 +1,6 @@
 # gonivinck
 一个基于 `docker` 的 `go-zero` 本地开发运行环境。
-
+[文档](https://www.zhihu.com/question/266399984/answer/2324080412)
 
 ## 使用
 ### 1. 按需修改 .env 配置
